@@ -1,4 +1,4 @@
-# Case-Study-Bellabeat
+# Case Study Bellabeat
 Google Data Analytics Case Study: Bellabeat
 > How Can a Wellness Technology Company Play It Smart?
 <img src="https://bellabeat.com/wp-content/uploads/2023/09/Bellabeat-logo.jpg" alt="Bellabeat Logo" width="400"/>
